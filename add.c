@@ -2,10 +2,10 @@
 
 void main()
 {
-  int a,b,c;
+  int a,b,c,d;
   a = 1;
   b = 2;
   c = 3;
-  c = a + b;
-  printf("result = %d",c);
+  d = a + b + c;
+  printf("result = %d",d);
 }
